@@ -4,6 +4,8 @@
 
 # Hier komt je code...
 
-my_tuple = ...
-
-print()
+my_tuple = (11, "Oh een tuple", 13.5, 8009)
+print(my_tuple[0])
+print(my_tuple[1])
+print(my_tuple[2])
+print(my_tuple[3])
