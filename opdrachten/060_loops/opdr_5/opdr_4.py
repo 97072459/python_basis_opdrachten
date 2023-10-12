@@ -6,4 +6,5 @@
 
 # Hier start de for-loop
 
-my_list = []
+resultaat = [getal * 3 for getal in range(1, 20)][:6]
+print(resultaat)
